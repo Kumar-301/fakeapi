@@ -1,0 +1,10 @@
+{
+    "person":[
+        {
+            "name":"kumar",
+            "id":1,
+            "desigination":"Developer",
+            "salary":30000
+        }
+    ]
+}
